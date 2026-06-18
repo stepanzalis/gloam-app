@@ -3,12 +3,20 @@
     <channel>
         <title>Gloam</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Thu, 18 Jun 2026 21:57:56 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/stepanzalis/gloam-app/releases/latest/download/Gloam-1.1.zip" length="2956921" type="application/octet-stream" sparkle:edSignature="wmUlM47xoKau0SvQZLhCtRr9vcy9hUvLlEHE5FM4QCwPdaddcCnorrhSMl6rQnIopyonVzPQLrPWR6Es9Dy/Dw=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 18 Jun 2026 21:18:18 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/stepanzalis/gloam-app/releases/latest/download/Gloam-1.0.zip" length="1454763" type="application/octet-stream" sparkle:edSignature="qKWR7YD5lZanDFvlTAiZPeXvBi89rOSz896bmWLiYNku9zQrRG6nPAuTQeebOlTlo3lC8aMOyc7E0dT9DVt1CQ=="/>
+            <enclosure url="https://github.com/stepanzalis/gloam-app/releases/latest/download/Gloam-1.0.zip" length="2956928" type="application/octet-stream" sparkle:edSignature="OYKKYRHN1R/hFCApouROmCks3VSd0KnNk0l5eHYihBACQnu/6W0THv2ZI7eZUCI9+8C8Lt0f1fwFsBBqjtaWCg=="/>
         </item>
     </channel>
 </rss>
